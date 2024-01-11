@@ -70,7 +70,7 @@
     font-family: 'Poppins', sans-serif;
     display: inline-block;
     text-transform: capitalize;
-    /* border: 2px solid red; */
+    border: 2px solid rgb(225, 0, 255);
     padding: 7px 10px;
     border-radius: 20px;
     transition-duration: .4s;
